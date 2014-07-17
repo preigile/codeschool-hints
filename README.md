@@ -39,6 +39,7 @@
 		-	[Socket.io](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/6.socket_io.md)   
 		-	[Persisting Data](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/7.persisting_data.md)   
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/resume.md)
+	+	CoffeeScript
 	+	[Try jQuery](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Try_jQuery)   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
@@ -53,7 +54,7 @@
 		-	[Utility Methods](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/4.utility_methods.md)   
 		-	[jQuery Plugins](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/5.jquery_plugins.md)   
 		-	[Promises](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/6.promises.md)   
-		-	Resume 
+		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/resume.md) 
 	+	[Anatomy of Backbone.js](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Anatomy_of_Backbone)   
 		-	[Introduction](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/1.introduction.md)   
 		-	[Models](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/2.models.md)   
