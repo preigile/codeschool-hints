@@ -31,6 +31,7 @@
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/resume.md)   
 	+	[JavaScript Best Practices](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/JavaScript_Best_Practices)
 		- [The Sword of Syntax](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/1.the_sword_of_syntax.md)
+		- [The Pendant of Performance](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/2.the_pendant_of_performance.md)
 	+	[Real-time Web with Node.js](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Real-time_Web_with_Node_js)   
 		-	[Intro to Node.js](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/1.intro_to_node_js.md)   
 		-	[Events](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/2.events.md)   
