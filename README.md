@@ -5,34 +5,35 @@
 
 ### Содержание
 
-*	[Electives](https://github.com/Preigile/CodeschoolHints/tree/master/Electives)     
-	+	[Try Git](https://github.com/Preigile/CodeschoolHints/tree/master/Electives/TryGig)    
+*	Electives     
+	+	Try Git    
 		-	[Try Git](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/try_git.md)
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/resume.md)
-*	[JavaScript](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript)    
-	+	[JavaScript Road Trip Part 1](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/JavaScript_Road_Trip_Part_1)
+*	JavaScript    
+	+	JavaScript Road Trip Part 1
 		-	[Values](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/1.values.md)
 		-	[Variables](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/2.variables.md)    
 		-	[Files](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/3.files.md)    
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/resume.md) 
-	+	[JavaScript Road Trip Part 2](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/JavaScript_Road_Trip_Part_2)
+	+	JavaScript Road Trip Part 2
 		-	[Loops](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/1.loops.md)   
 		-	[Conditionals](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/2.conditionals.md)  
 		-	[Built-In Functions](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/3.built-in_functions.md)   
 		-	[Declared Functions](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/4.declared_functions.md)  
 		-	[Arrays](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/5.arrays.md)    
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_2/resume.md)   
-	+	[JavaScript Road Trip Part 3](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/JavaScript_Road_Trip_Part_3)   
+	+	JavaScript Road Trip Part 3   
 		-	[The Forest of Function Expressions](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/1.the_forest_of_function_expressions.md)   
 		-	[Cold Closures Cove](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/2.cold_closures_cove.md)    
 		-	[The Hoisting Hills](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/3.the_hoisting_hills.md)    
 		-	[The Ocean of Objects](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/4.the_ocean_of_objects.md)    
 		-	[The Plains of Prototypes](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/5.the_plains_of_prototypes.md)    
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_3/resume.md)   
-	+	[JavaScript Best Practices](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/JavaScript_Best_Practices)
+	+	JavaScript Best Practices
 		- [The Sword of Syntax](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/1.the_sword_of_syntax.md)
 		- [The Pendant of Performance](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/2.the_pendant_of_performance.md)
-	+	[Real-time Web with Node.js](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Real-time_Web_with_Node_js)   
+		-	[The Crystal of Caution](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/3.the_crystal_of_caution.md)
+	+	Real-time Web with Node.js   
 		-	[Intro to Node.js](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/1.intro_to_node_js.md)   
 		-	[Events](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/2.events.md)   
 		-	[Streams](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/3.streams.md)   
@@ -42,14 +43,14 @@
 		-	[Persisting Data](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/7.persisting_data.md)   
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/resume.md)
 	+	CoffeeScript
-	+	[Try jQuery](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Try_jQuery)   
+	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
 		-	[Manipulating the DOM](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/3.manipulating_the_dom.md)   
 		-	[Events](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/4.events.md)   
 		-	[Styling](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/5.styling.md)   
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/resume.md)
-	+	[jQuery: The Return Flight](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/jQuery_The_Return_Flight)   
+	+	jQuery: The Return Flight   
 		-	[An introduction to Ajax](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/1.an_introduction_to_ajax.md)   
 		-	[jQuery and JavaScript](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/2.jquery_and_javascrpt.md)   
 		-	[Ajax With Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/3.ajax_with_forms.md)   
@@ -57,7 +58,7 @@
 		-	[jQuery Plugins](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/5.jquery_plugins.md)   
 		-	[Promises](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/6.promises.md)   
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/jQuery_The_Return_Flight/resume.md) 
-	+	[Anatomy of Backbone.js](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Anatomy_of_Backbone)   
+	+	Anatomy of Backbone.js   
 		-	[Introduction](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/1.introduction.md)   
 		-	[Models](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/2.models.md)   
 		-	[Views](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/3.views.md)   
@@ -66,7 +67,7 @@
 		-	[Collections & Views](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/6.collection_and_views.md)   
 		-	[History & Router](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/7.history_and_router.md)   
 		-	Resume 
-	+	[Anatomy of Backbone.js Part 2](https://github.com/Preigile/CodeschoolHints/tree/master/JavaScript/Anatomy_of_Backbone_js_Part_2)   
+	+	Anatomy of Backbone.js Part 2   
 		-	[More Models](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/1.more_models.md)   
 		-	[Customizing Collections](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/2.customizing_collection.md)   
 		-	[Real Routes](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/3.real_routes.md)   
