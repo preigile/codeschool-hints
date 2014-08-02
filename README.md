@@ -32,7 +32,9 @@
 	+	JavaScript Best Practices
 		- [The Sword of Syntax](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/1.the_sword_of_syntax.md)
 		- [The Pendant of Performance](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/2.the_pendant_of_performance.md)
-		-	[The Crystal of Caution](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/3.the_crystal_of_caution.md)
+		-	[The Crystal of Caution](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/3.the_crystal_of_caution.md)   
+		-	[The Mail of Modularity](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Best_Practices/4.the_mail_of_modularity.md)   
+		- Resume
 	+	Real-time Web with Node.js   
 		-	[Intro to Node.js](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/1.intro_to_node_js.md)   
 		-	[Events](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/2.events.md)   
