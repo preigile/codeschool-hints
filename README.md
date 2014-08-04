@@ -79,5 +79,6 @@
 		-	[Customizing Backbone](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/7.customizing_backbone.md)   
 		-	Resume    
 	+	Warming up with Ember.js   
+		-	[Warming Up](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/1.warming_up.md)
 	+	Shaping up with Angular.js   
 	+	Staying Sharp With AngularJS
