@@ -82,5 +82,6 @@
 		-	[Warming Up](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/1.warming_up.md)
 		-	[Rendering the Flame](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/2.rendering_the_flame.md)
 		-	[A Route Through the Woods](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/3.a_route_through_the_woods.md)
+		-	[Acorn Models and Pinecone Data](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/4.acorn_models_and_pinecone_data.md)
 	+	Shaping up with Angular.js   
 	+	Staying Sharp With AngularJS
