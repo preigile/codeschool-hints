@@ -85,5 +85,6 @@
 		-	[Acorn Models and Pinecone Data](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/4.acorn_models_and_pinecone_data.md)
 		-	[Controlling Our Growth](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/5.controlling_our_growth.md)
 		-	[The Template Forest](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/6.the_template_forest.md)
+		-	[Acting on Instinct](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/7.acting_on_instinct.md)
 	+	Shaping up with Angular.js   
 	+	Staying Sharp With AngularJS
