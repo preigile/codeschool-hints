@@ -45,6 +45,7 @@
 		-	[Persisting Data](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/7.persisting_data.md)   
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Real-time_Web_with_Node_js/resume.md)
 	+	CoffeeScript
+		-	[Variables & Functions](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/1.variables_and_functions.md)
 	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
