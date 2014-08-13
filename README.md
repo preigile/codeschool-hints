@@ -48,6 +48,7 @@
 		-	[Variables & Functions](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/1.variables_and_functions.md)
 		- [Applied jQuery](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/2.applied_jquery.md)
 		-	[Conditionals & Operators](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/3.conditionals_and_operators.md)
+		-	[Arrays, Objects & Iterations](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/4.arrays_and_objects_and_iterations.md)
 	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
