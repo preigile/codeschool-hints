@@ -93,5 +93,6 @@
 		-	[The Template Forest](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/6.the_template_forest.md)
 		-	[Acting on Instinct](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/7.acting_on_instinct.md)
 	+	Shaping up with Angular.js  
-		-	[Flatlander's Gem Store](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/1.flatlanders_gem_store.md) 
+		-	[Flatlander's Gem Store](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/1.flatlanders_gem_store.md)
+		-	[Built-in Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/2.built-in_directives.md)
 	+	Staying Sharp With AngularJS
