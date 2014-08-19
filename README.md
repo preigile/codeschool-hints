@@ -95,4 +95,5 @@
 	+	Shaping up with Angular.js  
 		-	[Flatlander's Gem Store](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/1.flatlanders_gem_store.md)
 		-	[Built-in Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/2.built-in_directives.md)
+		- [Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/3.forms.md)
 	+	Staying Sharp With AngularJS
