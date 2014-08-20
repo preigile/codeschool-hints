@@ -96,4 +96,5 @@
 		-	[Flatlander's Gem Store](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/1.flatlanders_gem_store.md)
 		-	[Built-in Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/2.built-in_directives.md)
 		- [Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/3.forms.md)
+		-	[Custom Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/4.custom_directives.md)
 	+	Staying Sharp With AngularJS
