@@ -97,4 +97,5 @@
 		-	[Built-in Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/2.built-in_directives.md)
 		- [Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/3.forms.md)
 		-	[Custom Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/4.custom_directives.md)
+		-	[Services](https://github.com/preigile/codeschool-hints/blob/master/JavaScript/Shaping_up_with_Angular_js/5.services.md)
 	+	Staying Sharp With AngularJS
