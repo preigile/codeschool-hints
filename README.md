@@ -8,7 +8,9 @@
 *	Electives     
 	+	Try Git    
 		-	[Try Git](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/try_git.md)
-		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/resume.md)
+		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/resume.md)   
+	+	Discover Devtools
+		-	[Elements](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/1.elements.md)
 *	JavaScript    
 	+	JavaScript Road Trip Part 1
 		-	[Values](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/1.values.md)
@@ -51,7 +53,7 @@
 		-	[Arrays, Objects & Iterations](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/4.arrays_and_objects_and_iterations.md)
 		-	[Applied jQuery II](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/5.applied_jquery_II.md)
 		-	[Object Orientation](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/6.object_orientation.md)
-		- [Resume](https://github.com/preigile/codeschool-hints/blob/master/JavaScript/CoffeeScript/resume.md)
+		-
 	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
