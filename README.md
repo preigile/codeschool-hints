@@ -11,6 +11,8 @@
 		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/Electives/TryGig/resume.md)   
 	+	Discover Devtools
 		-	[Elements](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/1.elements.md)
+		- [Sources](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/2.sources.md)
+		- [Console](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/3.console.md)
 *	JavaScript    
 	+	JavaScript Road Trip Part 1
 		-	[Values](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/1.values.md)
