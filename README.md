@@ -16,6 +16,7 @@
 		- [Debugging](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/4.debugging.md)
 		-	[Network](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/5.network.md)
 		-	[Profiles](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/6.profiles.md)
+		-	[Memory](https://github.com/preigile/codeschool-hints/blob/master/Electives/Discover_DevTools/7.memory.md)
 *	JavaScript    
 	+	JavaScript Road Trip Part 1
 		-	[Values](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/JavaScript_Road_Trip_Part_1/1.values.md)
