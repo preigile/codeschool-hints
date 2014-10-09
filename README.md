@@ -59,7 +59,6 @@
 		-	[Arrays, Objects & Iterations](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/4.arrays_and_objects_and_iterations.md)
 		-	[Applied jQuery II](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/5.applied_jquery_II.md)
 		-	[Object Orientation](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/6.object_orientation.md)
-		-
 	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
