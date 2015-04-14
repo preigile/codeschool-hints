@@ -82,7 +82,7 @@
 		-	[Collections](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/5.collections.md)   
 		-	[Collections & Views](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/6.collection_and_views.md)   
 		-	[History & Router](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/7.history_and_router.md)   
-		-	Resume 
+		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone/resume.md)    
 	+	Anatomy of Backbone.js Part 2   
 		-	[More Models](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/1.more_models.md)   
 		-	[Customizing Collections](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/2.customizing_collection.md)   
