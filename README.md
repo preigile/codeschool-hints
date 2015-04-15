@@ -59,6 +59,7 @@
 		-	[Arrays, Objects & Iterations](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/4.arrays_and_objects_and_iterations.md)
 		-	[Applied jQuery II](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/5.applied_jquery_II.md)
 		-	[Object Orientation](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/CoffeeScript/6.object_orientation.md)
+		-	[Resume](https://github.com/preigile/codeschool-hints/blob/master/JavaScript/CoffeeScript/resume.md)
 	+	Try jQuery   
 		-	[jQuery Basics](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/1.jquery_basics.md)   
 		-	[Selectors](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Try_jQuery/2.selectors.md)   
@@ -91,7 +92,7 @@
 		-	[Working with Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/5.working_with_forms.md)   
 		-	[App Organization](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/6.app_organization.md)   
 		-	[Customizing Backbone](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/7.customizing_backbone.md)   
-		-	Resume    
+		-	[Resume](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Anatomy_of_Backbone_js_Part_2/resume.md)    
 	+	Warming up with Ember.js   
 		-	[Warming Up](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/1.warming_up.md)
 		-	[Rendering the Flame](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/2.rendering_the_flame.md)
