@@ -101,10 +101,11 @@
 		-	[Controlling Our Growth](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/5.controlling_our_growth.md)
 		-	[The Template Forest](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/6.the_template_forest.md)
 		-	[Acting on Instinct](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Warming_Up_with_Ember_js/7.acting_on_instinct.md)
+		-	[Resume](https://github.com/preigile/codeschool-hints/blob/master/JavaScript/Warming_Up_with_Ember_js/Resume.md)
 	+	Shaping up with Angular.js  
 		-	[Flatlander's Gem Store](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/1.flatlanders_gem_store.md)
 		-	[Built-in Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/2.built-in_directives.md)
-		- [Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/3.forms.md)
+		-	[Forms](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/3.forms.md)
 		-	[Custom Directives](https://github.com/Preigile/CodeschoolHints/blob/master/JavaScript/Shaping_up_with_Angular_js/4.custom_directives.md)
 		-	[Services](https://github.com/preigile/codeschool-hints/blob/master/JavaScript/Shaping_up_with_Angular_js/5.services.md)
 	+	Staying Sharp With AngularJS
